@@ -1,3 +1,8 @@
+4.0.1 (TBD)
+- SSE revamp
+- Add Cache control headers to on-demand requests
+- Sync new segments if referenced in a segment notification
+
 4.0.0 (Oct 6, 2020)
 - BREAKING CHANGE: Migrated to go modules (dep & bare-bones go-dep no longer supported)
 - Added local impressions deduping (enabled by default).
